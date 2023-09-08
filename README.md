@@ -1,2 +1,2 @@
 # SBG23_Santander_etal
-Methods and References
+For Methods and References see .ipynb file
